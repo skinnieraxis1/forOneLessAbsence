@@ -1,0 +1,59 @@
+
+body {
+    background-color: #ffffff !important;
+    margin: 0 !important;
+    height: 100vh !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    color: #fff0e3 !important;
+}
+
+.lado i img{
+    width: 20svh !important;
+}
+
+.ctext-body-secondary{
+    color: white !important;
+}
+
+
+.vinculo{
+    color:white;
+}
+
+.vinculo:hover{
+    color: #E688E2;
+}
+
+.btn{
+    margin-top: 0px;
+    margin-left: 90px;
+    width: 155PX !important;
+    height: 50PX !important;
+    color:white;
+
+}
+
+.form-control{
+    width: 20svh !important;
+}
+
+.card-title{
+    font-size: 40px;
+    margin-left: 165px;
+}
+
+.btn:hover{
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+    --bs-btn-border-color: var(--bd-violet-bg);
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #E688F2;
+    
+}
+
+.mb-3{
+    margin-left: 60px;
+}

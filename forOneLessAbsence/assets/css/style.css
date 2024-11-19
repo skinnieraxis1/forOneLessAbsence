@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.bodyTable{
+    padding: 50px !important;
+}
+
+.nav-item-profile{
+    align-items: center !important;
+}
